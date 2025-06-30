@@ -1,0 +1,21 @@
+{
+  "name": "random-health-tip",
+  "version": "0.0.1",
+  "description": "A package to get a random health tip",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "health",
+    "tip",
+    "random",
+    "wellness",
+    "lifestyle"
+  ],
+  "author": "B G Vinayak",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
